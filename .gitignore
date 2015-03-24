@@ -1,0 +1,11 @@
+/Db/bin
+/Db/obj
+/Logic/bin
+/Logic/obj
+/Moq.EntityFramework/bin
+/Moq.EntityFramework/obj
+/packages
+/Test.Unit/bin
+/Test.Unit/obj
+/Test.Unit/Test.Unit.csproj.user
+/MoqEntityFramework.sln.DotSettings.user
